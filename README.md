@@ -20,11 +20,11 @@
 
 
 <div align="right"> 
-  <a href="https://www.instagram.com/pedro_arthurdm/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+  <a href="https://www.instagram.com/pedro_arthurdm/" target="blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="blank">
   </a> 
-  <a href="https://www.linkedin.com/in/pedro-arthur-97a9ab211/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  <a href="https://www.linkedin.com/in/pedro-arthur-97a9ab211/" target="blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="blank">
   </a>
   
   ![Snake animation](https://github.com/JonatasWevertom/JonatasWevertom/blob/output/github-contribution-grid-snake.svg)
