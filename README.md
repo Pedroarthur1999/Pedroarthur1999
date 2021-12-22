@@ -15,7 +15,7 @@
    <img align="left"  alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img  align="left" alt="GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
    <img align="left" alt="VsCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-   ![Snake animation](https://github.com/Pedroarthur1999/Pedroarthur1999/blob/output/github-contribution-grid-snake.svg)
+   
 </div>
 
 
