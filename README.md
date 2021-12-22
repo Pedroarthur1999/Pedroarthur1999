@@ -1,11 +1,7 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on front end;
 - 🌱 I’m currently learning React Js;
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 <div align="center">
   <a href="https://github.com/rafaballerini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pedroarthur1999&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
