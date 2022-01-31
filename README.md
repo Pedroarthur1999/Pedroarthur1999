@@ -20,7 +20,7 @@
 </div> <br>
 
 
-<div align="right"> 
+<div> 
   <a href="https://www.instagram.com/pedro_arthurdm/" target="blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="blank">
   </a> 
