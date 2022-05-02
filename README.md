@@ -23,7 +23,7 @@
   
   
   
-<div align="right" style="text-decoration:none" style="color:white">
+<div align="right" style="padding:5px" style="text-decoration:none" style="color:white">
   <a href="https://pedroarthur.netlify.app/" target="blank" >WebSite</a></br>
   </div>
 <div align="right"> 
