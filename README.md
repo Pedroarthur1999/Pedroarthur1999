@@ -19,9 +19,15 @@
    <img align="left" alt="VsCode" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
    <img align="left" alt="Python" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 </div> <br>
-
-<div>
-  <a href="https://pedroarthur.netlify.app/">WebSite</a>
+<style>
+  
+  div a{
+  text-decoration:none;
+  color:white;
+  
+  </style>
+<div >
+  <a href="https://pedroarthur.netlify.app/" target="blank" >WebSite</a></br>
   </div>
 <div align="right"> 
   <a href="https://www.instagram.com/pedro_arthurdm/" target="blank">
