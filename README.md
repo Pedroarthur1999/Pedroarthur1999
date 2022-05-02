@@ -20,7 +20,7 @@
    <img align="left" alt="Python" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 </div> <br>
 
-<div align="left">
+<div>
   <a href="https://pedroarthur.netlify.app/">WebSite</a>
   </div>
 <div align="right"> 
